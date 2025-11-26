@@ -47,10 +47,10 @@ This project serves as a full portfolio example showing structured analysis and 
 
 ---
 
-## ▶️ Loom Walkthrough
+## ▶️ video Walkthrough
 
 Link to video explaining the full pipeline:
-**[Insert Loom video link here]**
+**[[video]](https://tinyurl.com/power-bi-presentation)**
 
 
 
