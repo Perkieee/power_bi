@@ -60,6 +60,4 @@ Link to video explaining the full pipeline:
 
 This project demonstrates your ability to clean, analyze, and visualize real-world retail data using SQL and Power BI. It highlights practical problem-solving skills and your ability to communicate insights effectively.
 
----
 
-If you'd like, I can also generate a polished project description for GitHub or help you prepare insights for the dashboard.
